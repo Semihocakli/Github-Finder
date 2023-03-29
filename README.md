@@ -34,6 +34,7 @@ Github Finder, Python ve Flask kullanarak oluşturulmuş bir web uygulamasıdır
 
 Github Finder projesinin genel olarak çalışma şekli bu şekildedir. Flask ve Python kullanarak bu projeyi geliştirmek oldukça eğlenceli olacaktır. Uygulamanızı istediğiniz şekilde özelleştirebilir ve Github API'yi kullanarak farklı verileri alabilirsiniz. İyi kodlamalar!
 
+---
 
 ![Link](https://raw.githubusercontent.com/Semihocakli/Github-Finder/main/images/1.png)
 
